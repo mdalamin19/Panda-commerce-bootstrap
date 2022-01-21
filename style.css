@@ -1,0 +1,15 @@
+.bg-caro-color{
+    background-color: #fceae8;
+}
+
+.catagories img{
+    width: 100px;
+}
+.panda-btn{
+    background-color:yellowgreen;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    padding: 9px 24px;
+
+}
